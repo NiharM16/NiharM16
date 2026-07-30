@@ -3,6 +3,7 @@
 <p align=center>
     <img alt="GitHub License" src="https://img.shields.io/github/license/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/NiharM16/NiharM16?style=plastic">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/NiharM16?style=plastic">
 </p>
 
