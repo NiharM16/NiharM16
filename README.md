@@ -38,11 +38,16 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="NiharM16's GitHub Profile Summary" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&utcOffset=8" alt="NiharM16's Productive Time"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="General stats badge"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="General stats badge" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&utcOffset=8" alt="NiharM16's Productive Time" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="NiharM16's GitHub Profile Summary"/>
+</p>
 
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
