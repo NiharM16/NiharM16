@@ -1,6 +1,7 @@
 ![NiharM16](https://socialify.git.ci/NiharM16/NiharM16/image?custom_description=Hello%2C+my+name+is+Nihar+Mane.+This+is+my+portfolio.+All+my+projects%2C+reports%2C+findings%2C+and+related+documentation+will+be+shown+here.&description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Dark)
 
 <p align=center>
+    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub License" src="https://img.shields.io/github/license/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16?style=plastic">
