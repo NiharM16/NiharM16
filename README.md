@@ -19,8 +19,7 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/NiharM16/output/galaga-contribution-graph.svg">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NiharM16&theme=transparent)](https://github.com/NiharM16)
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
 </p>
