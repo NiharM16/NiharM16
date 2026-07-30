@@ -24,11 +24,14 @@
 
 ## 📊 Stats
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img src="https://github-stats-extended.vercel.app/api?username=NiharM16&theme=transparent&hide_border=true" alt="Nihar's GitHub Stats" height="180"/>
-</a>
-
-
+<p align=center>
+    <a href="https://github.com/stats-organization/github-stats-extended">
+      <img src="https://github-stats-extended.vercel.app/api?username=NiharM16&theme=transparent&hide_border=true" alt="Nihar's GitHub Stats" height="180"/>
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
+    </a>
+</p>
 
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
