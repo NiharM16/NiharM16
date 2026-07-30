@@ -37,6 +37,7 @@
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
     </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Profile details badge"/>
 </p>
 
 <p align="center">
