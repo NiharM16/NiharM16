@@ -18,3 +18,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiharM16/NiharM16/output/galaga-contribution-graph.svg">
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/NiharM16/output/galaga-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <b>“Be the exploit, not the payload.”</b>
+</p>
