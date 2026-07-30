@@ -21,8 +21,10 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/NiharM16/output/galaga-contribution-graph.svg">
 </picture>
 
+## 🏆Github Profile Trophies
 
-## 📊 Stats
+
+## 🧑‍💻Tech Stats
 
 <p align=center>
     <a href="https://github.com/stats-organization/github-stats-extended">
