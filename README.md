@@ -1,6 +1,7 @@
 ![NiharM16](https://socialify.git.ci/NiharM16/NiharM16/image?custom_description=Hello%2C+my+name+is+Nihar+Mane.+This+is+my+portfolio.+All+my+projects%2C+reports%2C+findings%2C+and+related+documentation+will+be+shown+here.&description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Dark)
 
 <p align=center>
+    <img src="https://img.shields.io/badge/NiharM16-GitHub-181717?style=plastic&logo=github&logoColor=white&labelColor=181717" alt="GitHub badge"/>
     <img alt="GitHub License" src="https://img.shields.io/github/license/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16?style=plastic">
@@ -30,16 +31,18 @@
 
 ## 🧑‍💻Tech Stats
 
-<p align=center>
-    <a href="https://github.com/stats-organization/github-stats-extended">
-      <img src="https://github-stats-extended.vercel.app/api?username=NiharM16&theme=transparent&hide_border=true" alt="Nihar's GitHub Stats" height="180"/>
-    </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
-    </a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Profile details badge"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&utcOffset=8" alt="Commits per day badge"/>
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=NiharM16&theme=transparent&hide_border=true" alt="Nihar's GitHub Stats" height="180"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="NiharM16's GitHub Profile Summary" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&utcOffset=8" alt="NiharM16's Productive Time"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiharM16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="General stats badge"/>
 </p>
+
 
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
