@@ -21,8 +21,13 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/NiharM16/output/galaga-contribution-graph.svg">
 </picture>
 
-## 🏆Github Profile Trophies
+## 🏆 GitHub Profile Trophies
 
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=NiharM16&no-bg=true&margin-w=10&margin-h=10)
+
+</div>
 
 ## 🧑‍💻Tech Stats
 
