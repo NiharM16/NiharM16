@@ -12,7 +12,7 @@
 </p>
 
 
-## My Contribution Graph
+## 📈 My Contribution Graph
 
 <!-- galaga -->
 <picture>
@@ -21,7 +21,15 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/NiharM16/output/galaga-contribution-graph.svg">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NiharM16&theme=transparent)](https://github.com/NiharM16)
+
+## 📊 Stats
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img src="https://github-stats-extended.vercel.app/api?username=NiharM16&theme=transparent&hide_border=true" alt="Nihar's GitHub Stats" height="180"/>
+</a>
+
+
+
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
 </p>
