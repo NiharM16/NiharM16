@@ -6,6 +6,7 @@
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16">
     <img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/NiharM16/NiharM16?style=plastic">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/NiharM16?style=plastic">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NiharM16/NiharM16?style=plastic">
 </p>
 
 
